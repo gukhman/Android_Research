@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">Все наоборот</string>
+    <string name="button">Преобразовать</string>
+    <string name="textInput" />
+    <string name="textResult" />
+    <string name="textCount" />
+    <string name="textInputHint">Введите текст</string>
+</resources>
